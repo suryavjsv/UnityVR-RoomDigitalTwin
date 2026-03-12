@@ -1,0 +1,2 @@
+D:\Personal Files\Projects\DigitalTwinRoom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Personal Files\Projects\DigitalTwinRoom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

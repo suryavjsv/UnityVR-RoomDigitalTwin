@@ -54,6 +54,7 @@ crashlytics-build.properties
 *.unityproj
 *.suo
 *.tmp
+*.utmp
 *.user
 *.userprefs
 *.pidb
@@ -72,6 +73,7 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+*.utmp
 *.user
 *.userprefs
 *.pidb
