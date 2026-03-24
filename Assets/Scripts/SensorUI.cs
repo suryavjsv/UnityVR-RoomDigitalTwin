@@ -22,7 +22,7 @@ public class SensorUI : MonoBehaviour
         // AC Board shows live temperature with degree symbol
         if (acTempDisplay != null)
         {
-            acTempDisplay.text = liveData.temperature.ToString("F1") + "\u00B0C";
+            acTempDisplay.text = liveData.temperature.ToString("F1") + " C";
         }
     }
 }
